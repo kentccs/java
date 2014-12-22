@@ -1,0 +1,7 @@
+DoNotUseThreads
+ShortVariable
+AvoidInstantiatingObjectsInLoops
+DataflowAnomalyAnalysis
+LocalVariableCouldBeFinal
+UnnecessaryConstructor
+SimpleDateFormatNeedsLocale
